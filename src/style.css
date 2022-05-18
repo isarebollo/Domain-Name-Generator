@@ -1,0 +1,11 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: beige;
+}
+h1 {
+  font-family: "Lucida Sans";
+}
+
+#ListaDom {
+  font-family: "Lucida Sans";
+}
